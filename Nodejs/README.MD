@@ -1,7 +1,8 @@
 # NODEJS INTERVIEW PEP
 
 #### Differentiate between JavaScript and NodeJS.
- - Ans : 
+  Ans : 
+  
  JavaScript:
 Client-Side Language: JavaScript is primarily a client-side scripting language, meaning it runs in the browser of the user.
 Front-End Development: It is mainly used for creating interactive and dynamic elements on websites, such as animations, form validation, and interactivity.
